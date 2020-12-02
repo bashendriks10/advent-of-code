@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advent of code", "advent of code\advent of code.csproj", "{612BC3C6-97E0-4D25-9F93-B1B8942365F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dag2", "dag2\dag2.csproj", "{DECA03A0-AE71-4707-B387-A781C33A4855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612BC3C6-97E0-4D25-9F93-B1B8942365F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612BC3C6-97E0-4D25-9F93-B1B8942365F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612BC3C6-97E0-4D25-9F93-B1B8942365F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612BC3C6-97E0-4D25-9F93-B1B8942365F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECA03A0-AE71-4707-B387-A781C33A4855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECA03A0-AE71-4707-B387-A781C33A4855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECA03A0-AE71-4707-B387-A781C33A4855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECA03A0-AE71-4707-B387-A781C33A4855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3129EEBE-8DA9-4684-A477-8337C1B027DF}
+	EndGlobalSection
+EndGlobal
